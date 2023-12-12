@@ -1,0 +1,4 @@
+/Users/dariansereno/TRAVAIL/42/scop/build/CMakeFiles/scop.dir
+/Users/dariansereno/TRAVAIL/42/scop/build/CMakeFiles/Shaders.dir
+/Users/dariansereno/TRAVAIL/42/scop/build/CMakeFiles/edit_cache.dir
+/Users/dariansereno/TRAVAIL/42/scop/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+BUILD_DIR:= bin
+
+COMPILER_FLAGS:=
+INCLUDE_FLAGS:=
+LINKER_FLAGS:=
+SRC_FILES:=
+
+.PHONY: build
+build:
+	@echo Buildin "$(ASSEMBLY)"...
+	@clang $(COMPILER_FLAGS) $(SRC_FILES) -o $(BUILD_DIR)/app $(INCLUDE_FLAGS) $(LINKER_FLAGS)

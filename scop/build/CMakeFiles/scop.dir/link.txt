@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/scop.dir/src/test.cpp.o -o scop  -Wl,-rpath,/usr/local/lib /opt/homebrew/lib/libglfw.3.4.dylib /usr/local/lib/libvulkan.dylib 

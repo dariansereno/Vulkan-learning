@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+92a8cfbe01258dec534d27237839108d /Users/dariansereno/TRAVAIL/42/scop/shaders/simple_shader.frag.spv
+eec97eaca803e1fffff30a9c056b12e9 /Users/dariansereno/TRAVAIL/42/scop/shaders/simple_shader.vert.spv
+f4981532f405034ed4b92bdd39cd194b CMakeFiles/Shaders
